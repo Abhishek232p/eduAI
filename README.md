@@ -32,4 +32,5 @@ This project is designed to be **100% free to build and deploy**, making it perf
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/career-skills-advisor.git
+(https://github.com/Abhishek232p/eduAI.git)
 cd career-skills-advisor
